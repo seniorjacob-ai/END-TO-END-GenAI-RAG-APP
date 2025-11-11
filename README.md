@@ -38,7 +38,7 @@ This project implements an end-to-end **Retrieval-Augmented Generation (RAG)** a
    python main.py
    ```
 
-## Usage
+## Usages
 1. Load documents into the app.
 2. Generate embeddings using Hugging Face models.
 3. Use Pinecone for efficient vector retrieval.
